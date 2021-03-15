@@ -9,3 +9,5 @@ class B():
 class C(A,B):
   def __init__(self):
     super().__init__()
+    # Well, how do we resolve this?
+    # Try me!
