@@ -1,2 +1,2 @@
 # interview-notes
-Notes from interview on my way to python warlock title
+Notes from interviews on my way to python warlock title
